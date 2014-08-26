@@ -1,0 +1,19 @@
+1.程序的执行环境为:jdk1.6.2及其以上（最佳） + mySql
+
+2.将SQL文件夹下的Sql.sql数据在mysql中执行
+      会生成family 数据库 
+      会生成 t_family  , t_member ，t_mibao，t_wife四张表
+
+4   打开bin文件夹下的DBConnectionConfigue.properties
+    配置连接mysql   (你懂的)
+
+5   执行family.bat 
+
+6    登陆 账号  121210
+          秘密  1234
+
+  
+    谢谢！
+
+
+
